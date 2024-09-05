@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**ezeljkovic/ezeljkovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 🔭 I’m currently working on DevOps, Python and WebApps projects<br>🌱 I’m currently learning GoLang, HTML, CSS, and JS<br>
 
